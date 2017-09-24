@@ -1,5 +1,6 @@
-# İstek Arttırma ve Çalışma Teknikleri videoları listesi
-### [Panepistimio](http://panepistimio.slack.com)
+## Edit Yourself
+### İsteklendirme ve çalışma teknikleri konularında videolar listesi
+#### [Panepistimio](http://panepistimio.slack.com)
 
 
 
