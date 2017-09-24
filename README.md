@@ -31,6 +31,7 @@
 - [Sevgililer gününe mektup](https://www.youtube.com/watch?v=tzfb67X1rI4)
 - [Kendi Pokemon Go Oyunumu Tasarladım: #hakikiPokemon](https://www.youtube.com/watch?v=ZqIIEH7n0L0)
 - [#okugeztanış ve Daha İyi Hisset](https://www.youtube.com/watch?v=zQQKpZHq_BY)
+- [Az çoktan fazladır](https://www.youtube.com/watch?v=13Ck4tQzucQ)
 - [Az Neden Çoktur? Hayatında Neleri Azaltmalısın?](https://www.youtube.com/watch?v=ADMjrXFK2X8)
 
 ## Teknikler
@@ -40,22 +41,19 @@
 - [Üşeniyorum Öyleyse Yarın: Erteleme ile Başa Çıkma](https://www.youtube.com/watch?v=__MSthuk65k)
 - [Daha iyi öğrenmek için SODTİ tekniği](https://www.youtube.com/watch?v=JqumdJdv8yI)
 - [Yabancı dil öğrenmenin en hızlı yolu: KO-KO Tekniği](https://www.youtube.com/watch?v=CgXPnpvrGNM)
-- [Sherlock’un hafıza sarayı nasıl yapılır? Mekan Metodu](https://www.youtube.com/watch?v=p7yN5vm0rK8)
-- [Neden Not Tutmalıyız?](https://www.youtube.com/watch?v=bH_LtNSnNOE)
 - [Fikir balığı nasıl yakalanır?](https://www.youtube.com/watch?v=pq9m7AgXZMI)
-- [Bruce Lee'den özgüven konusunda ne öğrenebiliriz?](https://www.youtube.com/watch?v=rXu47vgvID8)
+- [Sherlock’un hafıza sarayı nasıl yapılır? Mekan Metodu](https://www.youtube.com/watch?v=p7yN5vm0rK8)
 
 ## Gelişim
 - [İyi Uykular - Kaliteli Uykunun Sırları](https://www.youtube.com/watch?v=ax9AZ9s5Mbo)
 - [Sağlıklı ve Kaliteli Uykunun Sırları](https://www.youtube.com/watch?v=nj8-RghCcAw)
 - [7 Adımda Uyku Düzenimi Nasıl Kurdum?](https://www.youtube.com/watch?v=qi_23lUItvM)
+- [Çok çalışmak mı? Derin çalışmak mı?](https://www.youtube.com/watch?v=JClap8zgC4E)
+- [Neden Not Tutmalıyız?](https://www.youtube.com/watch?v=bH_LtNSnNOE)
+- [Bruce Lee'den özgüven konusunda ne öğrenebiliriz?](https://www.youtube.com/watch?v=rXu47vgvID8)
 - [Kendini Nasıl Geliştirebilirsin?](https://www.youtube.com/watch?v=FzW3x-YYLSc)
 - [Kendini Geliştirme Yolları-2](https://www.youtube.com/watch?v=3KyuLy2bIYw)
 - [Kendini Geliştir: İçindeki Duvarı Yık!](https://www.youtube.com/watch?v=GxwayTQUDoI)
-- [Çok çalışmak mı? Derin çalışmak mı?](https://www.youtube.com/watch?v=JClap8zgC4E)
-
-
-
 
 ## Motivasyon
 - [Nasıl Motive Olurum?](https://www.youtube.com/watch?v=ynTTiJZat1E)
@@ -64,4 +62,16 @@
 - [Don't Stay in School](https://www.youtube.com/watch?v=8xe6nLVXEC0)
 
 ## Konuşmalar
-- [Burak Yiğit Kaya - Hızlı ve Öfkesiz](
+- [Burak Yiğit Kaya - Hızlı ve Öfkesiz](https://www.youtube.com/watch?v=8LS5aQmbzp8)
+- [Caner Taslaman - Sessiz Çığlık](https://www.youtube.com/watch?v=C76tfpQZMs8)
+- [Carl Sagan - Pale Blue Dot](https://www.youtube.com/watch?v=QMg19hbVQzY)
+
+## Tavsiyeler
+- [Akıllı Şehirler için 13 Proje Fikri](https://www.youtube.com/watch?v=V4KlI1pG_HA)
+- [Daha iyi görmek için... Çizin!](https://www.youtube.com/watch?v=Tf3r741RO-w)
+- [Dünyanın en eski kehanetler kitabı nasıl okunur?](https://www.youtube.com/watch?v=uxgqns2CF6k)
+- [Gelecekte hangi mesleği seçmeliyim?](https://www.youtube.com/watch?v=O3Xde6lnWqw)
+- [Kelime Kavanozu](https://www.youtube.com/watch?v=Pa1uwQHegSA)
+- [Yeniden kreatif olmak için ne yapmak gerek? Noktaları birleştirin!](https://www.youtube.com/watch?v=Es7EfSMiXmU)
+- [Stresle başa çıkmanın en iyi yolu](https://www.youtube.com/watch?v=Fuv59BhKf_Q)
+- [İki ayda iki yıl tatil yapmış gibi yapmak](https://www.youtube.com/watch?v=MO5aRpDYIfE)
