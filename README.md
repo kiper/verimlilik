@@ -1,5 +1,5 @@
 ## Edit Yourself
-### İsteklendirme ve çalışma teknikleri konularında videolar listesi
+İsteklendirme ve çalışma teknikleri konularında videolar listesi
 #### [Panepistimio](http://panepistimio.slack.com)
 
 
