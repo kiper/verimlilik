@@ -62,7 +62,6 @@
 - [Don't Stay in School](https://www.youtube.com/watch?v=8xe6nLVXEC0)
 
 ## Konuşmalar
-- [Burak Yiğit Kaya - Hızlı ve Öfkesiz](https://www.youtube.com/watch?v=8LS5aQmbzp8)
 - [Caner Taslaman - Sessiz Çığlık](https://www.youtube.com/watch?v=C76tfpQZMs8)
 - [Carl Sagan - Pale Blue Dot](https://www.youtube.com/watch?v=QMg19hbVQzY)
 
