@@ -35,6 +35,9 @@
 - [Az Neden Çoktur? Hayatında Neleri Azaltmalısın?](https://www.youtube.com/watch?v=ADMjrXFK2X8)
 
 ## Teknikler
+- [İyi Uykular - Kaliteli Uykunun Sırları](https://www.youtube.com/watch?v=ax9AZ9s5Mbo)
+- [Sağlıklı ve Kaliteli Uykunun Sırları](https://www.youtube.com/watch?v=nj8-RghCcAw)
+- [7 Adımda Uyku Düzenimi Nasıl Kurdum?](https://www.youtube.com/watch?v=qi_23lUItvM)
 - [Tek mi çift mi? Zaman yönetimi tekniği](https://www.youtube.com/watch?v=Q8hqyfbec9Q)
 - [Zaman Yönetimi: Önceliklerinizi Yönetmeye Başlayın](https://www.youtube.com/watch?v=o_qED8GsUwU)
 - [2 Mükemmel Zaman Yönetimi Tekniği](https://www.youtube.com/watch?v=NbTnx_VDN1w)
@@ -45,9 +48,6 @@
 - [Sherlock’un hafıza sarayı nasıl yapılır? Mekan Metodu](https://www.youtube.com/watch?v=p7yN5vm0rK8)
 
 ## Gelişim
-- [İyi Uykular - Kaliteli Uykunun Sırları](https://www.youtube.com/watch?v=ax9AZ9s5Mbo)
-- [Sağlıklı ve Kaliteli Uykunun Sırları](https://www.youtube.com/watch?v=nj8-RghCcAw)
-- [7 Adımda Uyku Düzenimi Nasıl Kurdum?](https://www.youtube.com/watch?v=qi_23lUItvM)
 - [Çok çalışmak mı? Derin çalışmak mı?](https://www.youtube.com/watch?v=JClap8zgC4E)
 - [Neden Not Tutmalıyız?](https://www.youtube.com/watch?v=bH_LtNSnNOE)
 - [Bruce Lee'den özgüven konusunda ne öğrenebiliriz?](https://www.youtube.com/watch?v=rXu47vgvID8)
