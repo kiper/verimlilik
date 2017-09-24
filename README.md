@@ -1,5 +1,5 @@
 ## Edit Yourself
-İsteklendirme ve çalışma teknikleri konularında videolar listesi
+İsteklendirme ve çalışma düzenlemesi konularında seçtiğim videolar listesi
 #### [Panepistimio](http://panepistimio.slack.com)
 
 
@@ -25,4 +25,7 @@
  - [Hiçbir Zaman Hazır Olmayacaksın. O Yüzden Şimdi Başla!](https://www.youtube.com/watch?v=8sHa-W5tvrI)
  
 ## Düzen
--
+- [Tek mi çift mi? Zaman yönetimi tekniği](https://www.youtube.com/watch?v=Q8hqyfbec9Q)
+- [Zaman Yönetimi: Önceliklerinizi Yönetmeye Başlayın](https://www.youtube.com/watch?v=o_qED8GsUwU)
+- [2 Mükemmel Zaman Yönetimi Tekniği](https://www.youtube.com/watch?v=NbTnx_VDN1w)
+- [Neden Not Tutmalıyız?](https://www.youtube.com/watch?v=bH_LtNSnNOE)
