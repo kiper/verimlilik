@@ -9,19 +9,19 @@
 
 ### Konu başlıkları
 - [Başlangıç](#başlangıç)
-- [Düzen](#düzen)
-- [Gelişim](#gelişim)
 - [Harekete Geç](#harekete-geç)
+- [Teknikler](#teknikler)
+- [Gelişim](#gelişim)
 - [Motivasyon](#motivasyon)
-- [One Man Show](#one-man-show)
-- [Tavsiye](#tavsiye)
+- [Konuşmalar](#konuşmalar)
+- [Tavsiyeler](#tavsiyeler)
 
 ---
 
 ## Başlangıç
- - [YAVAŞLA!](https://www.youtube.com/watch?v=ZtgeMLKbsig)
- - [Mükemmel olmak için kahverengi şeker yemeyin](https://www.youtube.com/watch?v=C73183abxRc)
- - [Hiçbir Zaman Hazır Olmayacaksın. O Yüzden Şimdi Başla!](https://www.youtube.com/watch?v=8sHa-W5tvrI)
+- [YAVAŞLA!](https://www.youtube.com/watch?v=ZtgeMLKbsig)
+- [Mükemmel olmak için kahverengi şeker yemeyin](https://www.youtube.com/watch?v=C73183abxRc)
+- [Hiçbir Zaman Hazır Olmayacaksın. O Yüzden Şimdi Başla!](https://www.youtube.com/watch?v=8sHa-W5tvrI)
  
 ## Harekete Geç
 - [Zinciri Kırma!](https://www.youtube.com/watch?v=oNmXH2uN0Do)
