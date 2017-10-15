@@ -46,6 +46,8 @@
 - [Yabancı dil öğrenmenin en hızlı yolu: KO-KO Tekniği](https://www.youtube.com/watch?v=CgXPnpvrGNM)
 - [Fikir balığı nasıl yakalanır?](https://www.youtube.com/watch?v=pq9m7AgXZMI)
 - [Sherlock’un hafıza sarayı nasıl yapılır? Mekan Metodu](https://www.youtube.com/watch?v=p7yN5vm0rK8)
+- [İrade Nasıl Güçlendirilir?](https://www.youtube.com/watch?v=HuIDRgdaDyA)
+- [Tek istediğim bunun gibi bir şey](https://www.youtube.com/watch?v=RHOg3FA9UwU)
 
 ## Gelişim
 - [Çok çalışmak mı? Derin çalışmak mı?](https://www.youtube.com/watch?v=JClap8zgC4E)
