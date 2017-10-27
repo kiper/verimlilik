@@ -22,6 +22,7 @@
 - [YAVAŞLA!](https://www.youtube.com/watch?v=ZtgeMLKbsig)
 - [Mükemmel olmak için kahverengi şeker yemeyin](https://www.youtube.com/watch?v=C73183abxRc)
 - [Hiçbir Zaman Hazır Olmayacaksın. O Yüzden Şimdi Başla!](https://www.youtube.com/watch?v=8sHa-W5tvrI)
+- [YAP-MAK Üzerine Tavsiyeler](https://www.youtube.com/watch?v=rQuI9Ki2pgg)
  
 ## Harekete Geç
 - [Zinciri Kırma!](https://www.youtube.com/watch?v=oNmXH2uN0Do)
