@@ -43,6 +43,7 @@
 - [Zaman Yönetimi: Önceliklerinizi Yönetmeye Başlayın](https://www.youtube.com/watch?v=o_qED8GsUwU)
 - [2 Mükemmel Zaman Yönetimi Tekniği](https://www.youtube.com/watch?v=NbTnx_VDN1w)
 - [Üşeniyorum Öyleyse Yarın: Erteleme ile Başa Çıkma](https://www.youtube.com/watch?v=__MSthuk65k)
+- [Küçük Adımlar Büyük Değişimler](https://www.youtube.com/watch?v=kv85vYxXKg0)
 - [Daha iyi öğrenmek için SODTİ tekniği](https://www.youtube.com/watch?v=JqumdJdv8yI)
 - [Yabancı dil öğrenmenin en hızlı yolu: KO-KO Tekniği](https://www.youtube.com/watch?v=CgXPnpvrGNM)
 - [Fikir balığı nasıl yakalanır?](https://www.youtube.com/watch?v=pq9m7AgXZMI)
