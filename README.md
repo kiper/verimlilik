@@ -71,6 +71,7 @@
 - [Carl Sagan - Pale Blue Dot](https://www.youtube.com/watch?v=QMg19hbVQzY)
 
 ## Tavsiyeler
+- [Hayatını ve Enerjini Organize Etmenin Yolları](https://www.youtube.com/watch?v=AlamULMxsi0)
 - [Akıllı Şehirler için 13 Proje Fikri](https://www.youtube.com/watch?v=V4KlI1pG_HA)
 - [Daha iyi görmek için... Çizin!](https://www.youtube.com/watch?v=Tf3r741RO-w)
 - [Dünyanın en eski kehanetler kitabı nasıl okunur?](https://www.youtube.com/watch?v=uxgqns2CF6k)
