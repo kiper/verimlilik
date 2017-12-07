@@ -50,6 +50,7 @@
 - [Sherlock’un hafıza sarayı nasıl yapılır? Mekan Metodu](https://www.youtube.com/watch?v=p7yN5vm0rK8)
 - [İrade Nasıl Güçlendirilir?](https://www.youtube.com/watch?v=HuIDRgdaDyA)
 - [Tek istediğim bunun gibi bir şey](https://www.youtube.com/watch?v=RHOg3FA9UwU)
+- [Daha etkili öğrenmek için ne yapmak gerek? Feynman Tekniği ve Ötesi](https://www.youtube.com/watch?v=EMlNstwTHfU)
 
 ## Gelişim
 - [Çok çalışmak mı? Derin çalışmak mı?](https://www.youtube.com/watch?v=JClap8zgC4E)
