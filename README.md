@@ -63,6 +63,7 @@
 ## Motivasyon
 - [Bir Başka Motivasyon](https://open.spotify.com/user/dolfinus/playlist/2pV5OjQnOUE8QRLBXr9YmY) //Sportify'da oluştumaya başladığım bir şarkı listesi
 - [Nasıl Motive Olurum?](https://www.youtube.com/watch?v=ynTTiJZat1E)
+- [Bir Motivasyon Hilesi](https://www.youtube.com/watch?v=FJcowY4D2wk)
 - [Everybody Dies, But Not Everybody Lives](https://www.youtube.com/watch?v=ja-n5qUNRi8)
 - [The Mind](https://www.youtube.com/watch?v=z1PSbDmV8Gw)
 - [Don't Stay in School](https://www.youtube.com/watch?v=8xe6nLVXEC0)
