@@ -45,6 +45,7 @@
 - [Üşeniyorum Öyleyse Yarın: Erteleme ile Başa Çıkma](https://www.youtube.com/watch?v=__MSthuk65k)
 - [Küçük Adımlar Büyük Değişimler](https://www.youtube.com/watch?v=kv85vYxXKg0)
 - [Daha iyi öğrenmek için SODTİ tekniği](https://www.youtube.com/watch?v=JqumdJdv8yI)
+- [İstediğimiz Alışkanlıkları Edinmek](https://www.youtube.com/watch?v=lmWQcijPlAw)
 - [Yabancı dil öğrenmenin en hızlı yolu: KO-KO Tekniği](https://www.youtube.com/watch?v=CgXPnpvrGNM)
 - [Fikir balığı nasıl yakalanır?](https://www.youtube.com/watch?v=pq9m7AgXZMI)
 - [Sherlock’un hafıza sarayı nasıl yapılır? Mekan Metodu](https://www.youtube.com/watch?v=p7yN5vm0rK8)
