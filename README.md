@@ -52,6 +52,11 @@
 - [Tek istediğim bunun gibi bir şey](https://www.youtube.com/watch?v=RHOg3FA9UwU)
 - [Daha etkili öğrenmek için ne yapmak gerek? Feynman Tekniği ve Ötesi](https://www.youtube.com/watch?v=EMlNstwTHfU)
 
+## Tertip
+- [Minimalizm nedir?](https://www.youtube.com/watch?v=2ep1HamGutg)
+- [Neden sadeleşmelisin?](https://www.youtube.com/watch?v=kRNhq_FDPvQ)
+- [Nasıl Sadeleşeceksin?](https://www.youtube.com/watch?v=vXe9xtbrp14)
+
 ## Gelişim
 - [Çok çalışmak mı? Derin çalışmak mı?](https://www.youtube.com/watch?v=JClap8zgC4E)
 - [Neden Not Tutmalıyız?](https://www.youtube.com/watch?v=bH_LtNSnNOE)
