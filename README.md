@@ -92,3 +92,4 @@
 - [Yeniden kreatif olmak için ne yapmak gerek? Noktaları birleştirin!](https://www.youtube.com/watch?v=Es7EfSMiXmU)
 - [Stresle başa çıkmanın en iyi yolu](https://www.youtube.com/watch?v=Fuv59BhKf_Q)
 - [İki ayda iki yıl tatil yapmış gibi yapmak](https://www.youtube.com/watch?v=MO5aRpDYIfE)
+- [Üniversite Asla Yetmez!](https://www.youtube.com/watch?v=DPN6gRuPUsw)
