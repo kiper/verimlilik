@@ -61,6 +61,8 @@
 - [Çok çalışmak mı? Derin çalışmak mı?](https://www.youtube.com/watch?v=JClap8zgC4E)
 - [Neden Not Tutmalıyız?](https://www.youtube.com/watch?v=bH_LtNSnNOE)
 - [Bruce Lee'den özgüven konusunda ne öğrenebiliriz?](https://www.youtube.com/watch?v=rXu47vgvID8)
+- [İrade Gücünü Anlamak](https://www.youtube.com/watch?v=i8MYLOeMhGI)
+- [İrade Nasıl Güçlendirilir?](https://www.youtube.com/watch?v=HuIDRgdaDyA)
 - [Kendini Nasıl Geliştirebilirsin?](https://www.youtube.com/watch?v=FzW3x-YYLSc)
 - [Kendini Geliştirme Yolları-2](https://www.youtube.com/watch?v=3KyuLy2bIYw)
 - [Kendini Geliştir: İçindeki Duvarı Yık!](https://www.youtube.com/watch?v=GxwayTQUDoI)
