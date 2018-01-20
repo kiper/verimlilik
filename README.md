@@ -52,6 +52,7 @@
 - [İrade Nasıl Güçlendirilir?](https://www.youtube.com/watch?v=HuIDRgdaDyA)
 - [Tek istediğim bunun gibi bir şey](https://www.youtube.com/watch?v=RHOg3FA9UwU)
 - [Daha etkili öğrenmek için ne yapmak gerek? Feynman Tekniği ve Ötesi](https://www.youtube.com/watch?v=EMlNstwTHfU)
+- [Albert Einstein - Başarılı İnsanlar Nasıl Düşünür?](https://www.youtube.com/watch?v=VfnUZqA-u1w)
 
 ## Tertip
 - [Minimalizm nedir?](https://www.youtube.com/watch?v=2ep1HamGutg)
