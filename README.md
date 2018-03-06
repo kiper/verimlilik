@@ -1,5 +1,5 @@
 ## Edit Yourself
-Çalışma teknikleri ve isteklendirme konularında seçtiğim videolar listesi
+Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videoların listesidir.
 
 
 
