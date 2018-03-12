@@ -1,4 +1,4 @@
-## Edit Yourself
+## Tadil
 Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videoların listesidir.
 
 
