@@ -1,4 +1,4 @@
-## Tadil
+## Verimlilik
 Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videoların listesidir.
 
 
