@@ -55,6 +55,7 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 - [4.3.5 İstediğimiz Alışkanlıkları Edinmek](https://www.youtube.com/watch?v=lmWQcijPlAw)
 - [4.4.1 İrade Gücünü Anlamak](https://www.youtube.com/watch?v=i8MYLOeMhGI)
 - [4.4.2 İrade Nasıl Güçlendirilir?](https://www.youtube.com/watch?v=HuIDRgdaDyA)
+- [4.5.0 Bilimsel Olarak Kanıtlanmış Verimli Çalışma Teknikleri](https://www.youtube.com/watch?v=3-tWrSbnRKs)
 - [4.5.1 How to study efficiently: The Cornell Notes Method](https://www.youtube.com/watch?v=xSYnGhlnzyw)
 - [4.5.2 En Verimli Not Alma Tekniği Artı, Eksi ve İlginç](https://www.youtube.com/watch?v=uiX6oUW8yuE)
 - [4.5.3 Verimli ve Etkili Ders Çalışma: 10 Temel Kural](https://www.youtube.com/watch?v=b0wgPJAVm1g)
