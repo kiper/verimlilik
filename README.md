@@ -90,6 +90,7 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 - [6.2.2 Kendini Geliştirme Yolları-2](https://www.youtube.com/watch?v=3KyuLy2bIYw)
 - [6.2.3 Kendini Geliştir: İçindeki Duvarı Yık!](https://www.youtube.com/watch?v=GxwayTQUDoI)
 - [6.3.1 Büyük Hedefler Sana Zarar Veriyor Olabilir mi?](https://www.youtube.com/watch?v=0WCSTzMfuqk)
+- [6.3.2 Ders Çalışma Alışkanlığı Nasıl Kazanılır?](https://www.youtube.com/watch?v=OboWeUeBHLc)
 
 ## Motivasyon
 - [7.1.1 Tek istediğim bunun gibi bir şey](https://www.youtube.com/watch?v=RHOg3FA9UwU)
