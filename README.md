@@ -53,6 +53,7 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 - [4.3.3 Üşeniyorum Öyleyse Yarın: Erteleme ile Başa Çıkma](https://www.youtube.com/watch?v=__MSthuk65k)
 - [4.3.4 Küçük Adımlar Büyük Değişimler](https://www.youtube.com/watch?v=kv85vYxXKg0)
 - [4.3.5 İstediğimiz Alışkanlıkları Edinmek](https://www.youtube.com/watch?v=lmWQcijPlAw)
+- [Çok Çalışan mı Verimli Çalışan mı Kazanır?](https://www.youtube.com/watch?v=VGHiE47H-8Y)
 - [4.4.1 İrade Gücünü Anlamak](https://www.youtube.com/watch?v=i8MYLOeMhGI)
 - [4.4.2 İrade Nasıl Güçlendirilir?](https://www.youtube.com/watch?v=HuIDRgdaDyA)
 - [4.5.0 Bilimsel Olarak Kanıtlanmış Verimli Çalışma Teknikleri](https://www.youtube.com/watch?v=3-tWrSbnRKs)
