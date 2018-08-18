@@ -95,7 +95,7 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 
 ## Motivasyon
 - [7.1.1 Tek istediğim bunun gibi bir şey](https://www.youtube.com/watch?v=RHOg3FA9UwU)
-- [7.1.2 Bir Başka Motivasyon](https://open.spotify.com/user/dolfinus/playlist/2pV5OjQnOUE8QRLBXr9YmY)
+- [7.1.2 🔊 Bir Başka Motivasyon](https://open.spotify.com/user/dolfinus/playlist/2pV5OjQnOUE8QRLBXr9YmY)
 - [7.2.1 Bir Motivasyon Hilesi](https://www.youtube.com/watch?v=FJcowY4D2wk)
 - [7.2.2 Nasıl Motive Olurum?](https://www.youtube.com/watch?v=ynTTiJZat1E)
 - [7.2.3 İçsel Motivasyonunu Nasıl Artırırsın?](https://www.youtube.com/watch?v=F7OZ_hp0JA4)
