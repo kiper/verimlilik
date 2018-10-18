@@ -123,5 +123,6 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 - [9.3.3 Neden Kendimi Değiştiremiyorum?](https://www.youtube.com/watch?v=0GUenqfBEw4)
 - [9.3.4 Başarılı Olmak İçin Uyumsuz Ol!](https://www.youtube.com/watch?v=xM-lrlkBFQQ)
 - [9.4.1 Neden bir not defteri taşımalısınız?](https://www.youtube.com/watch?v=NmuU0yD_LVU)
+- [9.5.1 Başarmanız için 3 tavsiye](https://www.youtube.com/watch?v=0-uvYnk8moc)
 
 ![](https://github.com/schottky/verimlilik/blob/master/study.jpg)
