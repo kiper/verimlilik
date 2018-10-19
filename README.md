@@ -100,6 +100,7 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 - [7.2.2 Nasıl Motive Olurum?](https://www.youtube.com/watch?v=ynTTiJZat1E)
 - [7.2.3 İçsel Motivasyonunu Nasıl Artırırsın?](https://www.youtube.com/watch?v=F7OZ_hp0JA4)
 - [7.2.4 Çalışmak İstemediğin Zamanlarda Nasıl Çalışabilirsin?](https://www.youtube.com/watch?v=9EMmPWM-xWk)
+- [7.2.5 Selman Kahya - hayallerim, geçmişim ve geleceğim](https://www.youtube.com/watch?v=kd8QUW2vQZ4)
 - [7.3.1 Everybody Dies, But Not Everybody Lives](https://www.youtube.com/watch?v=ja-n5qUNRi8)
 - [7.3.2 The Mind](https://www.youtube.com/watch?v=z1PSbDmV8Gw)
 - [7.3.3 Don't Stay in School](https://www.youtube.com/watch?v=8xe6nLVXEC0)
