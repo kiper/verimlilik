@@ -104,6 +104,7 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 - [7.3.1 Everybody Dies, But Not Everybody Lives](https://www.youtube.com/watch?v=ja-n5qUNRi8)
 - [7.3.2 The Mind](https://www.youtube.com/watch?v=z1PSbDmV8Gw)
 - [7.3.3 Don't Stay in School](https://www.youtube.com/watch?v=8xe6nLVXEC0)
+- [7.3.4 Be Relentless](https://www.youtube.com/watch?v=Ick-Z60onaU)
 
 ## Konuşmalar
 - [8.1.1 Caner Taslaman - Sessiz Çığlık](https://www.youtube.com/watch?v=C76tfpQZMs8)
