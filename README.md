@@ -79,9 +79,6 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 ## Tertip
 - [5.1.1 Az çoktan fazladır](https://www.youtube.com/watch?v=13Ck4tQzucQ)
 - [5.1.2 Az Neden Çoktur? Hayatında Neleri Azaltmalısın?](https://www.youtube.com/watch?v=ADMjrXFK2X8)
-- [5.2.1 Minimalizm nedir?](https://www.youtube.com/watch?v=2ep1HamGutg)
-- [5.2.2 Neden Sadeleşmelisin?](https://www.youtube.com/watch?v=kRNhq_FDPvQ)
-- [5.2.3 Nasıl Sadeleşeceksin?](https://www.youtube.com/watch?v=vXe9xtbrp14)
 
 ## Gelişim
 - [6.1.1 Çok çalışmak mı? Derin çalışmak mı?](https://www.youtube.com/watch?v=JClap8zgC4E)
