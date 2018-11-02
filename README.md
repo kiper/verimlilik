@@ -16,6 +16,7 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 - [Motivasyon](#motivasyon)
 - [Konuşmalar](#konuşmalar)
 - [Tavsiyeler](#tavsiyeler)
+- [Erteleme](#erteleme)
 
 ---
 
@@ -126,5 +127,8 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 - [9.3.4 Başarılı Olmak İçin Uyumsuz Ol!](https://www.youtube.com/watch?v=xM-lrlkBFQQ)
 - [9.4.1 Neden bir not defteri taşımalısınız?](https://www.youtube.com/watch?v=NmuU0yD_LVU)
 - [9.5.1 Başarmanız için 3 tavsiye](https://www.youtube.com/watch?v=0-uvYnk8moc)
+
+## Erteleme
+- [10.1.1 Tim Urban: Inside the mind of a master procrastinator](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
 
 ![](https://github.com/schottky/verimlilik/blob/master/study.jpg)
