@@ -75,6 +75,7 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 - [4.7.5 Leonardo Da Vinci - Başarılı İnsanlar Nasıl Düşünür?](https://www.youtube.com/watch?v=ezEEfDq3IIg)
 - [4.7.6 Bill Gates - Başarılı İnsanlar Nasıl Düşünür?](https://www.youtube.com/watch?v=9rz4yQMpyHc)
 - [4.7.7 Nikola Tesla - Başarılı İnsanlar Nasıl Düşünür?](https://www.youtube.com/watch?v=VXksVpDx2hU)
+- [4.8.1 Can Sıkıntısı ve Sıkıntının Çözümleri](https://www.youtube.com/watch?v=VS3BeyNrc3w)
 
 ## Tertip
 - [5.1.1 Az çoktan fazladır](https://www.youtube.com/watch?v=13Ck4tQzucQ)
@@ -89,8 +90,10 @@ Psikoloji, çalışma teknikleri ve isteklendirme konularında seçtiğim videol
 - [6.2.3 Kendini Geliştir: İçindeki Duvarı Yık!](https://www.youtube.com/watch?v=GxwayTQUDoI)
 - [6.3.1 Büyük Hedefler Sana Zarar Veriyor Olabilir mi?](https://www.youtube.com/watch?v=0WCSTzMfuqk)
 - [6.3.2 Ders Çalışma Alışkanlığı Nasıl Kazanılır?](https://www.youtube.com/watch?v=OboWeUeBHLc)
+- [6.3.3 İsteklerimizi, Başarıya Dönüştürebilmek için Neler Yapabiliriz?](https://www.youtube.com/watch?v=oruOLPGfnWs)
 
 ## Motivasyon
+- [7.1.0 Motivasyon ve Performans](https://www.youtube.com/watch?v=-bVsYfLBacU)
 - [7.1.1 Tek istediğim bunun gibi bir şey](https://www.youtube.com/watch?v=RHOg3FA9UwU)
 - [7.1.2 🔊 Bir Başka Motivasyon](https://open.spotify.com/user/dolfinus/playlist/2pV5OjQnOUE8QRLBXr9YmY)
 - [7.2.1 Bir Motivasyon Hilesi](https://www.youtube.com/watch?v=FJcowY4D2wk)
